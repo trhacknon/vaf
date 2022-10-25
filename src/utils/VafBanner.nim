@@ -18,4 +18,4 @@ proc printBanner*(): void =
   randomize()
   echo &""" 
 {sample(BANNERS)} {TAG}
-            https://github.com/d4rckh/vaf"""
+            https://github.com/trhacknon/vaf"""
