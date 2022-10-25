@@ -13,7 +13,7 @@
 </a>
 <img src="https://img.shields.io/github/languages/top/trhacknon/vaf"></img>
 <br><br>
-<img src="screenshots/main.png"></img>
+<img src="screenshots/IMG_20221025_165141.jpg"></img>
 <br><br>
 </div>
 
