@@ -6,7 +6,7 @@ if [ "$(id -u)" != "0" ]; then
 fi
 
 echo "Downloading vaf"
-wget https://github.com/d4rckh/vaf/releases/latest/download/Linux-vaf
+wget https://github.com/trhacknon/vaf/releases/download/v2.0.0/Linux-vaf
 echo "Deleting previous installation of var (if it exists)"
 rm /usr/bin/vaf
 echo "Moving vaf to /usr/bin/vaf"
