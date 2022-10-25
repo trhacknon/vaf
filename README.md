@@ -1,17 +1,17 @@
 <div align="center">
 <h1>vaf</h1>
 <h3>A fast, simple, and feature rich web fuzzer written in nim</h3>
-<img src="https://img.shields.io/github/stars/d4rckh/vaf"></img>
-<a href="https://github.com/d4rckh/vaf/issues">
-  <img src="https://img.shields.io/github/issues/d4rckh/vaf"></img>
+<img src="https://img.shields.io/github/stars/trhacknon/vaf"></img>
+<a href="https://github.com/trhacknon/vaf/issues">
+  <img src="https://img.shields.io/github/issues/trhacknon/vaf"></img>
 </a>
-<a href="https://github.com/d4rckh/vaf/network">
-  <img src="https://img.shields.io/github/forks/d4rckh/vaf"></img>
+<a href="https://github.com/trhacknon/vaf/network">
+  <img src="https://img.shields.io/github/forks/trhacknon/vaf"></img>
 </a>
-<a href="https://github.com/d4rckh/vaf/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/d4rckh/vaf"></img>
+<a href="https://github.com/trhacknon/vaf/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/trhacknon/vaf"></img>
 </a>
-<img src="https://img.shields.io/github/languages/top/d4rckh/vaf"></img>
+<img src="https://img.shields.io/github/languages/top/trhacknon/vaf"></img>
 <br><br>
 <img src="screenshots/main.png"></img>
 <br><br>
@@ -21,7 +21,7 @@ vaf is a cross-platform web fuzzer with a lot of features. Some of its features 
 - Fast threading
 - HTTP header fuzzing
 - Proxying
-- [your own feature!](https://github.com/d4rckh/vaf/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5Bfeature%5D)
+- [your own feature!](https://github.com/trhacknon/vaf/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5Bfeature%5D)
 - And more...
 
 
@@ -29,7 +29,7 @@ vaf is a cross-platform web fuzzer with a lot of features. Some of its features 
 
 You can install vaf using this one-liner:
 ```
-curl https://raw.githubusercontent.com/d4rckh/vaf/main/install.sh | sudo bash
+curl https://raw.githubusercontent.com/trhacknon/vaf/main/install.sh | sudo bash
 ```
 
 ## Options
@@ -82,4 +82,4 @@ vaf -u https://example.org/ -w path/to/wordlist.txt -sc OK -m POST -H "Content-T
 # Contributors 
 
 Thanks to everyone who contributed to this project!
-- [@daanbreur](https://github.com/daanbreur)
+- [@trhacknon](https://github.com/trhacknon)
