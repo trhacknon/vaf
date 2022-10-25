@@ -1,4 +1,4 @@
-author        = "d4rckh"
+author        = "trhacknon"
 description   = "very advanced (web) fuzzer"
 license       = "GPL-3.0"
 version       = "2.0.0"
