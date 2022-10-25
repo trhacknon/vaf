@@ -13,4 +13,4 @@ echo "Moving vaf to /usr/bin/vaf"
 mv Linux-vaf /usr/bin/vaf
 chmod +x /usr/bin/vaf
 echo
-echo "vaf installed successfully, you can now run 'vaf'"
+echo "vaf installed successfully, now, you can run 'vaf'"
